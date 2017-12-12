@@ -1,14 +1,14 @@
 //
-//  StarRezUITests.swift
-//  StarRezUITests
+//  CS_Rest_LoginUITests.swift
+//  CS Rest LoginUITests
 //
-//  Created by gj3 on 12/8/17.
+//  Created by gj3 on 12/10/17.
 //  Copyright © 2017 gj3. All rights reserved.
 //
 
 import XCTest
 
-class StarRezUITests: XCTestCase {
+class CS_Rest_LoginUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

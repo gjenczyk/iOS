@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:StarRez.xcodeproj">
+      location = "self:CS Rest Login.xcodeproj">
    </FileRef>
 </Workspace>

@@ -1,15 +1,15 @@
 //
-//  StarRezTests.swift
-//  StarRezTests
+//  CS_Rest_LoginTests.swift
+//  CS Rest LoginTests
 //
-//  Created by gj3 on 12/8/17.
+//  Created by gj3 on 12/10/17.
 //  Copyright © 2017 gj3. All rights reserved.
 //
 
 import XCTest
-@testable import StarRez
+@testable import CS_Rest_Login
 
-class StarRezTests: XCTestCase {
+class CS_Rest_LoginTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
